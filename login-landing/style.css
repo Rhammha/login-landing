@@ -1,0 +1,20 @@
+body {
+  background-color: #727d71;
+}
+section {
+  background-color: white;
+}
+h1 {
+  color: black;
+}
+input {
+  display: block;
+}
+button {
+  margin-top: 10px;
+  background-color: black;
+  color: blanchedalmond;
+  border-radius: 15%;
+  height: 35px;
+  width: 180px;
+}
